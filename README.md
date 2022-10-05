@@ -11,7 +11,7 @@
 <code><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></code>
 
 
-<code><img src="https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=github_dark"></code>
+<code><img src="https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=dark"></code>
 
 <a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
 <!--
