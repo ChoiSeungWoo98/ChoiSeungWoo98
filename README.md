@@ -11,7 +11,9 @@
 <code><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></code>
 
 
-[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ChoiSeungWoo98&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
+<code>[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ChoiSeungWoo98&repo=github-readme-stats&cache_seconds=86400&theme=github_dark</code>
+
+
 <!--
 **ChoiSeungWoo98/ChoiSeungWoo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
