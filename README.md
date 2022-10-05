@@ -8,6 +8,8 @@
 **언어 및 도구**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></code>
+
 
 [github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ChoiSeungWoo98&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
 <!--
