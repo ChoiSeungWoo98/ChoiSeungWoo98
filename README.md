@@ -9,8 +9,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csw980928@gmail.com&show_icons=true&theme=radical)
-| `github_dark` ![github_dark][github_dark] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple] | `aura_dark` ![aura_dark][aura_dark] |
+[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ChoiSeungWoo98&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
 <!--
 **ChoiSeungWoo98/ChoiSeungWoo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
