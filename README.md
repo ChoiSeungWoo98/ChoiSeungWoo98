@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98D&show_icons=true&theme=radical)
 
-
+<a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
 <!--
 **ChoiSeungWoo98/ChoiSeungWoo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
