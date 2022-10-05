@@ -11,7 +11,7 @@
 <code><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></code>
 
 
-<code>[github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=ChoiSeungWoo98&repo=github-readme-stats&cache_seconds=86400&theme=github_dark</code>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98D&show_icons=true&theme=radical)
 
 
 <!--
