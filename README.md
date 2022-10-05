@@ -9,7 +9,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csw980928&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csw980928@gmail.com&show_icons=true&theme=radical)
 <!--
 **ChoiSeungWoo98/ChoiSeungWoo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
