@@ -8,25 +8,29 @@
 
 **👨‍💻Skli** 
 ---
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+<div><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3775A9?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3775A9?style=flat-square&logo=Python&logoColor=white"/></div>
 
+<div>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
-
+</div>
+<div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
+</div>
+<div>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-
+</div>
 
 **✉️메일**  
 ---
 <a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
+
 **Problem Solving**
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=radical)
