@@ -2,7 +2,7 @@
 
 <div align=center>
   
-**👋Introduction👋** 
+**👋Introduction** 
 ---
 💻 아직 배울게 많은 주니어 백엔드 엔지니어입니다.
 
@@ -37,7 +37,7 @@
 ---
 <a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
 
-**🛠️Problem Solving🛠️**
+**🛠️Problem Solving**
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=radical)
 </div>
