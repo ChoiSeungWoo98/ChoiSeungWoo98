@@ -27,6 +27,6 @@
 **✉️메일**  
 ---
 <a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
-****
+**Problem Solving**
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=radical)
