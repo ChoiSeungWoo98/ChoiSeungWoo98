@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 * 💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
 * 🎨 사용자 중심의 서비스에 관심이 많습니다.
@@ -25,3 +25,6 @@
 **메일**  
 
 <a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=radical)
