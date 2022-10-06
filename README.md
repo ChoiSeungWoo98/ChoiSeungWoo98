@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=auto&color=auto&height=200&section=header&text=Hi%20I'm SeungWoo&fontSize=50)
 
 * 💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
 * 🎨 사용자 중심의 서비스에 관심이 많습니다.
