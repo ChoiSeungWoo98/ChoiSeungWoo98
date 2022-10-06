@@ -1,11 +1,13 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi,%20There😊&fontSize=40&desc=I'm%20SeunWoo&descSize=30&rotate=13&fontAlign=72&fontAlignY=21&descAlign=77&descAlignY=41&animation=twinkling)
 
+**👋Introduction** 
+---
 * 💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
 * 🎨 사용자 중심의 서비스에 관심이 많습니다.
 * 😎 많은 것을 배우기 위해 열심히 노력중입니다.
 
-**언어 및 도구**  
+**👨‍💻Skli** 
+---
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
@@ -22,9 +24,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 
-**메일**  
-
+**✉️메일**  
+---
 <a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
-
-
+****
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=radical)
