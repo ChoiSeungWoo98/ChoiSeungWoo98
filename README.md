@@ -1,6 +1,6 @@
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi,%20There😊&fontSize=40&desc=I'm%20SeunWoo&descSize=30&rotate=13&fontAlign=72&fontAlignY=21&descAlign=77&descAlignY=41&animation=twinkling)
 
+<div align=center>
 **👋Introduction** 
 ---
 * 💻 아직 배울게 많은 주니어 웹 백엔드 엔지니어입니다.
