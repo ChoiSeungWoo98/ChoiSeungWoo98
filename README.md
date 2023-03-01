@@ -13,25 +13,35 @@
 **⚒️Stack⚒️** 
 ---
 <div>
+  <h1>BackEnd</h1>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
 </div>
   
 <div>
+  <h1>DataBase</h1>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 </div>
 
 <div>
+  <h1>FrontEnd</h1>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </div>
 
 <div>
+  <h1>SVN</h1>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+</div>
+  
+<div>
+  <h1>Blog</h1>
+  <img src="https://img.shields.io/badge/hugo-FF4088?style=flat-square&logo=hugo&logoColor=white">
+  <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white">
 </div>
 
 **✉️Contact**  
