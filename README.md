@@ -33,7 +33,7 @@
 
 **✉️Contact**  
 ---
-<a href="mailto:csw980928@google.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@google.com"/></a>
+<a href="mailto:csw980928@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@gmail.com"/></a>
 
 **🛠️Problem Solving**
 ---
