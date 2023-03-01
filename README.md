@@ -46,7 +46,12 @@
 
 **✉️Contact**  
 ---
-<a href="mailto:csw980928@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@gmail.com"/></a>
+<a href="mailto:csw980928@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=csw980928@gmail.com"/>
+</a>
+<a href="mailto:developer_seung_woo@naver.com">
+  <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=developer_seung_woo@naver.com"/>
+</a>
 
 **🛠️Problem Solving**
 ---
