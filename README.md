@@ -14,6 +14,9 @@
 ---
 <div>
   <h4>BackEnd</h4>
+  
+  [링크이름]("https://www.oracle.com/kr/java/technologies/downloads/#java11"){: target="_blank"}
+  
   <a href="https://www.oracle.com/kr/java/technologies/downloads/#java11" target="_blank">
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   </a>
