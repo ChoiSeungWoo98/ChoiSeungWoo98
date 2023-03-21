@@ -14,7 +14,7 @@
 ---
 <div>
   <h4>BackEnd</h4>
-  <a href="https://www.oracle.com/kr/java/technologies/downloads/#java11" targer="_blank">
+  <a href="https://www.oracle.com/kr/java/technologies/downloads/#java11" target="_blank">
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
