@@ -59,5 +59,5 @@
 ---
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ChoiSeungWoo98&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSeungWoo98&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSeungWoo98&langs_count=5&layout=compact&theme=dark)
 </div>
