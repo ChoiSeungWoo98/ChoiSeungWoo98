@@ -2,7 +2,7 @@
 
 <div align=center>
   
-**👋Introduction**  
+**👋Introduction**
 ---
 🧑🏻‍💻 아직 배울게 많은 주니어 백엔드 엔지니어입니다.
 
