@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi,%20There😊&fontSize=40&desc=I'm%20SeunWoo&descSize=30&rotate=13&fontAlign=72&fontAlignY=21&descAlign=77&descAlignY=41&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi,%20There😊&fontSize=40&desc=I'm%20SeungWoo&descSize=30&rotate=13&fontAlign=72&fontAlignY=21&descAlign=77&descAlignY=41&animation=twinkling)
 
 <div align=center>
   
