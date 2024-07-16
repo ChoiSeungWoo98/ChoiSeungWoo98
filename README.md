@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi,%20There😊&fontSize=40&desc=I'm%20SeungWoo&descSize=30&rotate=13&fontAlign=72&fontAlignY=21&descAlign=77&descAlignY=41&animation=twinkling)
 
 <div align=center>
-  
-**👋Introduction**
----
-🧑🏻‍💻 아직 배울게 많은 주니어 백엔드 엔지니어입니다.
-
-👍 사용자 중심의 서비스에 관심이 많습니다.
-
-✏️ 많은 것을 배우기 위해 열심히 노력중입니다.
 
 **⚒️Stack⚒️** 
 ---
