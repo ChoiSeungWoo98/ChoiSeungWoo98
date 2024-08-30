@@ -41,15 +41,15 @@
 **✉️Study**  
 ---
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
-<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=ArgoCD&logoColor=white">
-<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=Git-Hub Actions&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white">
+<img src="https://img.shields.io/badge/Git-Hub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 
 
 **✉️Contact**  
