@@ -46,12 +46,6 @@
 
 **✉️Study**  
 ---
-<div>
-  <h4>OS</h4>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-</div>
 
 <div>
   <h4>OS And PlatForm</h4>
