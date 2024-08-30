@@ -38,18 +38,51 @@
   <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white">
 </div>
 
+
+
+
+
+
+
 **✉️Study**  
 ---
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub Actions-222222?style=flat-square&logo=githubactions&logoColor=white">
+<div>
+  <h4>OS</h4>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+</div>
+
+<div>
+  <h4>OS And PlatForm</h4>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+</div>
+
+<div>
+  <h4>IaC</h4>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
+</div>
+
+<div>
+  <h4>CI/CD</h4>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub Actions-222222?style=flat-square&logo=githubactions&logoColor=white">
+</div>
+
+<div>
+  <h4>Etc.</h4>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+</div>
+
+
+
+
+
 
 
 **✉️Contact**  
@@ -60,6 +93,11 @@
 <a href="mailto:developer_seung_woo@naver.com">
   <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=developer_seung_woo@naver.com"/>
 </a>
+
+
+
+
+
 
 
 **🛠️Problem Solving**
