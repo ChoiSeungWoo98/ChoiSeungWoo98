@@ -38,6 +38,24 @@
   <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white">
 </div>
 
+<div style="height: 100px;"></div>
+
+**✉️Study**  
+---
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+
+
+<div style="height: 100px;"></div>
+
 **✉️Contact**  
 ---
 <a href="mailto:csw980928@gmail.com">
@@ -46,6 +64,8 @@
 <a href="mailto:developer_seung_woo@naver.com">
   <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=developer_seung_woo@naver.com"/>
 </a>
+
+<div style="height: 100px;"></div>
 
 **🛠️Problem Solving**
 ---
